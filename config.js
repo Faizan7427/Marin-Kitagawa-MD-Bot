@@ -7,18 +7,18 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918373017400']
-global.OwnerNumber = ['918373017400']
-global.ownertag = ['918373017400']
-global.BotName = "𝑀𝒶𝓇𝒾𝓃-ᴋɪᴛᴀɢᴀᴡᴀ"
-global.packname = "𝑀𝒶𝓇𝒾𝓃-ʙᴏᴛ"
+global.Owner = ['923164348433']
+global.OwnerNumber = ['923164348433']
+global.ownertag = ['923164348433']
+global.BotName = "Gojo"
+global.packname = "Gojo"
 global.author = "By: ᥴꫝꫀꪗ-𝙎𝙖𝙣💫🌙✨"
-global.OwnerName = "ᥴꫝꫀꪗ-𝙎𝙖𝙣💫🌙✨"
+global.OwnerName = "Gojo"
 global.BotSourceCode = "https://github.com/Chey-san/Marin-Kitagawa-MD-Bot"
 global.SupportGroupLink = "https://chat.whatsapp.com/G0dZXqJAL9b1boqnra7eb4"
 global.sessionName = "session"
 global.prefa = ['-']
-global.location = "West Bengal, India"
+global.location = "Pakistan"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://telegra.ph/file/17ecc2eece63a4d8bcd51.mp4' }
